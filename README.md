@@ -32,9 +32,9 @@ Transfer learning is applied to SqueezeNet, ResNet50, and ResNet18 using the COV
 
 ### SqueezeNet
 
-![SqueezeNet with SGDM Optimization Algorithm, Epoch: 30](Results/squeeznet.png)
+[SqueezeNet with SGDM Optimization Algorithm, Epoch: 30](Results/squeeznet.png)
 
-![SqueezeNet with Adam Optimization Algorithm, Epoch: 30](Results/squeeznet_with_adam.png)
+[SqueezeNet with Adam Optimization Algorithm, Epoch: 30](Results/squeeznet_with_adam.png)
 
 ### ResNet50
 
